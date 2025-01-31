@@ -9,7 +9,7 @@ FROM dunglas/frankenphp:1-php8.3 AS frankenphp_upstream
 
 
 # Base FrankenPHP image
-FROM frankenphp_upstream AS frankenphp_base
+FROM dunglas/frankenphp:1-php8.3 AS frankenphp_base
 
 WORKDIR /app
 
