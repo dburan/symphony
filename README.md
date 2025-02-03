@@ -49,3 +49,7 @@ Symfony Docker is available under the MIT License.
 ## Credits
 
 Created by [Kévin Dunglas](https://dunglas.dev), co-maintained by [Maxime Helias](https://twitter.com/maxhelias) and sponsored by [Les-Tilleuls.coop](https://les-tilleuls.coop).
+
+## API Documentation
+
+The Postman collection for this project can be accessed [here](https://web.postman.co/workspace/50c4aaab-f0cd-4a47-8c3b-f92dc3f6be3b/collection/41765585-63bd2ff8-5f75-4aec-8fe9-ce17455c5864).
