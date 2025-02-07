@@ -1,3 +1,5 @@
+FROM php:8.3-fpm
+
 #syntax=docker/dockerfile:1
 
 # Versions
